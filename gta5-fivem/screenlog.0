@@ -1,0 +1,185 @@
+Creating script environments for _cfx_internal
+Found new resource hwycars in /home/zap598344/g345169/gta5-fivem/server-data/resources//hwycars
+Found new resource Captain14_LSPD in /home/zap598344/g345169/gta5-fivem/server-data/resources//Captain14_LSPD
+Found new resource PvP in /home/zap598344/g345169/gta5-fivem/server-data/resources//PvP
+Found new resource trafficadjuster in /home/zap598344/g345169/gta5-fivem/server-data/resources//trafficadjuster
+Found new resource admincar in /home/zap598344/g345169/gta5-fivem/server-data/resources//admincar
+Found new resource lux_vehcontrol in /home/zap598344/g345169/gta5-fivem/server-data/resources//lux_vehcontrol
+Found new resource polmav in /home/zap598344/g345169/gta5-fivem/server-data/resources//polmav
+Found new resource warmenu in /home/zap598344/g345169/gta5-fivem/server-data/resources//warmenu
+Found new resource FordExplorer in /home/zap598344/g345169/gta5-fivem/server-data/resources//FordExplorer
+Found new resource Captain14_Sheriff in /home/zap598344/g345169/gta5-fivem/server-data/resources//Captain14_Sheriff
+Found new resource ghmattimysql in /home/zap598344/g345169/gta5-fivem/server-data/resources//ghmattimysql
+Found new resource polf430 in /home/zap598344/g345169/gta5-fivem/server-data/resources//polf430
+Found new resource riot in /home/zap598344/g345169/gta5-fivem/server-data/resources//riot
+Found new resource policeb in /home/zap598344/g345169/gta5-fivem/server-data/resources//policeb
+Found new resource admincarr in /home/zap598344/g345169/gta5-fivem/server-data/resources//admincarr
+Resource loading for admincarr failed:
+Could not open resource metadata file /home/zap598344/g345169/gta5-fivem/server-data/resources//admincarr/__resource.lua.
+Found new resource DodgeCharger2014 in /home/zap598344/g345169/gta5-fivem/server-data/resources//DodgeCharger2014
+Found new resource wk_delveh in /home/zap598344/g345169/gta5-fivem/server-data/resources//wk_delveh
+Found new resource EasyAdmin in /home/zap598344/g345169/gta5-fivem/server-data/resources//EasyAdmin
+Found new resource bcso in /home/zap598344/g345169/gta5-fivem/server-data/resources//bcso
+Found new resource mysql-async in /home/zap598344/g345169/gta5-fivem/server-data/resources//mysql-async
+Found new resource loadingscreen in /home/zap598344/g345169/gta5-fivem/server-data/resources//loadingscreen
+Found new resource Jailer in /home/zap598344/g345169/gta5-fivem/server-data/resources//Jailer
+Found new resource .git in /home/zap598344/g345169/gta5-fivem/server-data/resources//.git
+Resource loading for .git failed:
+Could not open resource metadata file /home/zap598344/g345169/gta5-fivem/server-data/resources//.git/__resource.lua.
+Found new resource vMenu in /home/zap598344/g345169/gta5-fivem/server-data/resources//vMenu
+Found new resource vrp_fixdvcar in /home/zap598344/g345169/gta5-fivem/server-data/resources//vrp_fixdvcar
+Found new resource pol718 in /home/zap598344/g345169/gta5-fivem/server-data/resources//pol718
+Found new resource vrp_doors in /home/zap598344/g345169/gta5-fivem/server-data/resources//vrp_doors
+Found new resource monitor in /home/zap598344/g345169/gta5-fivem/alpine/opt/cfx-server/citizen//system_resources//monitor
+Found new resource webadmin in /home/zap598344/g345169/gta5-fivem/alpine/opt/cfx-server/citizen//system_resources//webadmin
+Found new resource playernames in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gameplay]/playernames
+Found new resource chat in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gameplay]/chat
+Found new resource chat-theme-gtao in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gameplay]/chat-theme-gtao
+Found new resource basic-gamemode in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gamemodes]/basic-gamemode
+Found new resource rconlog in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/rconlog
+Found new resource scoreboard in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/scoreboard
+Found new resource runcode in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/runcode
+Found new resource sessionmanager in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/sessionmanager
+Found new resource baseevents in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/baseevents
+Found new resource hardcap in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/hardcap
+Found new resource sessionmanager-rdr3 in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/sessionmanager-rdr3
+Found new resource fivem in /home/zap598344/g345169/gta5-fivem/server-data/resources//[test]/fivem
+Found new resource example-loadscreen in /home/zap598344/g345169/gta5-fivem/server-data/resources//[test]/example-loadscreen
+Found new resource mapmanager in /home/zap598344/g345169/gta5-fivem/server-data/resources//[managers]/mapmanager
+Found new resource spawnmanager in /home/zap598344/g345169/gta5-fivem/server-data/resources//[managers]/spawnmanager
+Found new resource redm-map-one in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gamemodes]/[maps]/redm-map-one
+Found new resource fivem-map-hipster in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gamemodes]/[maps]/fivem-map-hipster
+Found new resource fivem-map-skater in /home/zap598344/g345169/gta5-fivem/server-data/resources//[gamemodes]/[maps]/fivem-map-skater
+Found new resource webpack in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/[builders]/webpack
+Found new resource yarn in /home/zap598344/g345169/gta5-fivem/server-data/resources//[system]/[builders]/yarn
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for monitor
+Started resource monitor
+Creating script environments for mapmanager
+Started resource mapmanager
+Creating script environments for chat
+Started resource chat
+Started resource spawnmanager
+Started gametype Freeroam
+Started resource basic-gamemode
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Started resource loadingscreen
+Started resource trafficadjuster
+Started resource PvP
+Creating script environments for EasyAdmin
+Started resource EasyAdmin
+Creating script environments for mysql-async
+Instantiated instance of script MySQLAsync.MySQLThread.
+Instantiated instance of script MySQLAsync.MySQLAsync.
+Started resource mysql-async
+Creating script environments for rconlog
+Started resource rconlog
+Started resource scoreboard
+Creating script environments for vMenu
+Instantiated instance of script vMenuServer.BanManager.
+[93m[vMenu] [WARNING] vMenu is set up to ignore permissions!
+If you did this on purpose then you can ignore this warning.
+If you did not set this on purpose, then you must have made a mistake while setting up vMenu.
+Please read the vMenu documentation ([36mhttps://docs.vespura.com/vmenu[93m).
+Most likely you are not executing the permissions.cfg (correctly).[0m
+Instantiated instance of script vMenuServer.MainServer.
+Started resource vMenu
+Creating script environments for Jailer
+Jailer by Albo1125 (LUA, FXServer, FiveM).
+Started resource Jailer
+Creating script environments for lux_vehcontrol
+Started resource lux_vehcontrol
+[94mAsset admincar/pranger.yft uses 28.2 MiB of virtual memory.[0m
+[93mCould not make hard link for /home/zap598344/g345169/gta5-fivem/server-data/resources//admincar/stream//pranger.yft <-> /home/zap598344/g345169/gta5-fivem/server-data/cache/files/admincar/stream_cache/z069170f3699efd4669034d94e71a7898db2036fa.[0m
+[93mAsset admincar/pranger.ytd uses 48.0 MiB of physical memory.[0m
+Started resource admincar
+[93mAsset riot/riot.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+Started resource riot
+[94mAsset polmav/polmav.ytd uses 17.5 MiB of physical memory.[0m
+Started resource polmav
+[94mAsset policeb/policeb.ytd uses 28.0 MiB of physical memory.[0m
+Started resource policeb
+[94mAsset polf430/polf430.yft uses 16.6 MiB of virtual memory.[0m
+[94mAsset polf430/polf430.ytd uses 21.8 MiB of physical memory.[0m
+[94mAsset polf430/polf430_hi.yft uses 16.6 MiB of virtual memory.[0m
+Started resource polf430
+[93mAsset pol718/pol718.ytd uses 40.0 MiB of physical memory.[0m
+Started resource pol718
+[94mAsset hwycars/hwaycar.yft uses 18.8 MiB of virtual memory.[0m
+[93mAsset hwycars/hwaycar.ytd uses 46.0 MiB of physical memory.[0m
+[94mAsset hwycars/hwaycar10.yft uses 18.0 MiB of virtual memory.[0m
+[91mAsset hwycars/hwaycar10.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset hwycars/hwaycar4.yft uses 16.5 MiB of virtual memory.[0m
+[93mAsset hwycars/hwaycar4.ytd uses 38.0 MiB of physical memory.[0m
+[94mAsset hwycars/hwaycar5.yft uses 17.2 MiB of virtual memory.[0m
+[94mAsset hwycars/hwaycar5.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset hwycars/hwaycar6.yft uses 21.0 MiB of virtual memory.[0m
+[93mAsset hwycars/hwaycar6.ytd uses 43.0 MiB of physical memory.[0m
+[94mAsset hwycars/hwaycar6_hi.yft uses 16.5 MiB of virtual memory.[0m
+[93mAsset hwycars/hwaycar7.ytd uses 47.0 MiB of physical memory.[0m
+[93mAsset hwycars/hwaycar8.ytd uses 43.0 MiB of physical memory.[0m
+[94mAsset hwycars/hwaycar9.yft uses 20.2 MiB of virtual memory.[0m
+[93mAsset hwycars/hwaycar9.ytd uses 34.0 MiB of physical memory.[0m
+[94mAsset hwycars/hwaycar9_hi.yft uses 18.5 MiB of virtual memory.[0m
+Started resource hwycars
+[94mAsset FordExplorer/hwaycar3.yft uses 19.5 MiB of virtual memory.[0m
+[93mAsset FordExplorer/hwaycar3.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+Started resource FordExplorer
+[94mAsset DodgeCharger2014/police2+hi.ytd uses 18.0 MiB of physical memory.[0m
+[91mAsset DodgeCharger2014/police2.ytd uses 224.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+Started resource DodgeCharger2014
+[94mAsset Captain14_Sheriff/sheriff3.ytd uses 23.5 MiB of physical memory.[0m
+Started resource Captain14_Sheriff
+[93mAsset Captain14_LSPD/police5.ytd uses 48.0 MiB of physical memory.[0m
+[94mAsset Captain14_LSPD/police6.yft uses 17.8 MiB of virtual memory.[0m
+[94mAsset Captain14_LSPD/police6.ytd uses 32.0 MiB of physical memory.[0m
+[93mAsset Captain14_LSPD/police7.ytd uses 42.0 MiB of physical memory.[0m
+[93mAsset Captain14_LSPD/police8.ytd uses 44.0 MiB of physical memory.[0m
+Started resource Captain14_LSPD
+[93mAsset bcso/fbi.ytd uses 33.5 MiB of physical memory.[0m
+[94mAsset bcso/fbi2.yft uses 27.2 MiB of virtual memory.[0m
+[91mAsset bcso/fbi2.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[91mAsset bcso/police.ytd uses 112.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset bcso/sheriff.yft uses 20.0 MiB of virtual memory.[0m
+[93mAsset bcso/sheriff.ytd uses 52.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset bcso/sheriff2.yft uses 18.6 MiB of virtual memory.[0m
+[91mAsset bcso/sheriff2.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+Started resource bcso
+[93mCouldn't find resource admincarr.[0m
+Started resource wk_delveh
+The file zap96x96.png must be a 96x96 PNG image to be used as icon.
+Stopping resource sessionmanager
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Authenticating server license key...
+cfx> Started map fivem-map-skater
+Started resource fivem-map-skater
+
+ _______ _______ _______ __   __ _______ ______  _______ _____ __   _
+ |______ |_____| |______   \_/   |_____| |     \ |  |  |   |   | \  |
+ |______ |     | ______|    |    |     | |_____/ |  |  | __|__ |  \_|
+                           Version [93m5.7[0m
+server thread hitch warning: timer interval of 190 milliseconds
+
+EasyAdmin: screenshot-basic is not installed on this Server, screenshots unavailable
+Server license key authentication succeeded. Welcome!
+[91m        fff                          
+[91m  cccc ff   xx  xx     rr rr    eee  
+[91mcc     ffff   xx       rrr  r ee   e 
+[91mcc     ff     xx   ... rr     eeeee  
+[91m ccccc ff   xx  xx ... rr      eeeee 
+                                     [0m
+[32mAuthenticated with cfx.re Nucleus: [0mhttps://zap-hosting-jv6j9m.users.cfx.re/
+[91m-- [server notice: hostname_rework][0m
+[32mYou don't have sv_projectName/sv_projectDesc set.
+[32mThese variables augment sv_hostname and fix your server name being cut off in the server list.[0m
+Use `sets sv_projectName ..` and `sets sv_projectDesc ..` to set them.
+
+[91m-- [server notice: tebex_not_set][0m
+[91m================[0m
+Monetize your server using Tebex! Visit [32mhttps://tebex.io/fivem[0m for more info.
+[91m================[0m
+
