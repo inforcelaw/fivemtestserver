@@ -1,0 +1,147 @@
+MODEL OVERVIEW
+=================================
+- NAME: 2013 Ford F350 SSV
+- VERSION: V1.0
+- EXTRA PARTS: Lots
+- OPTIMIZED FOR: ANY (Handling acts like sadler/gresley)
+
+A Little personal note!
+ I just wanted to say thank you, to all of you, every single person who comments, views, downloads
+or gives me feedback on my models. This community is one of the best i've ever been in with the way 
+you guys give feedback, and its not just hey can you release this unlocked or are you going to do 
+this model. You guys motivate me to do better, convert more cars, make even more unique models, and 
+try and provide you all with the highest quality models possible. 
+
+ I read every single comment, good and bad, every review, and every single message you guys send me. 
+I take all the advice you guys give, all of the criticism and all of the help you guys give me and 
+try and improve my models to the best of my abilities.
+
+ I can't say how greatful I am for every single person who supports me, and every person who has helped 
+me along the way. After i do a release with my tahoe and caprice in a pack, im planning on setting up
+a poll with a bunch of my cars, and letting you guys decide what my next release will be. 
+
+ Once again, thank you to every single one of you, and if you didnt read this, well you should. Now enough
+of my blabbering, to the model itself.
+
+INSTILLATION 
+=================================
+To install the vehicle, navigate to the latest patch day you have in your Mods folder, for me its patchday9
+and drag whatever files you want in.
+C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\mods\update\x64\dlcpacks\patchday9ng\dlc.rpf\x64\levels\gta5\vehicles.rpf\
+
+To install the vehicles meta file, navigate to:
+C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\Mods\update\update.rpf\common\data\levels\gta5
+And drag it in there.
+
+TO INSTALL THE EXTRA SKINS:
+Take a skin of your choice, and either take it and replace the F350_sign_1 OR take the skin and rename it to F350_sign_#
+(replace # with whatever number you need)
+
+COMMON QUESTIONS
+=================================
+Q: Why aren't my lights bright?
+A: You do not have light-enhancing mods installed. Download RadianceV and/or other mods that increase emergency lighting brightness.
+
+Q: Will you please help me ins--
+A: Did you read the readme? No? Sorry, can't help you. Yes? Then ask here.
+
+Q: Will you make it an addon?
+A: No I will not as I do not use add-on cars.
+
+Q: Can I put a new skin on this vehicle?
+A: Be my guest, hell even go edit my skins as you please, but give proper credits!
+
+Q: I dont have Patchday9?
+A: Then put the car in your latest pactch day, or copy patchday9 over.
+ 
+Q: Why does my game crash after I install the meta?
+A: I don't know, it works in my game.
+
+Q: Why is the truck flipping when I turn?
+A: There is a vehicles meta for a reason.
+
+Q: Why doesnt the lights look good from a distance/Why doesnt it have enviromnental lighting?
+A: Becuse of the way I made the lighting setup, it was not possible to make either of these happen.
+
+Q: When is your CHP megapack coming out?
+A: Maybe next week as I start a new job a day after this truck is released, that comes before modding for free.
+
+MODEL NOTES
+=================================
+- THERE IS A BUG WITH THE MODEL WHERE YOU ARE NOT ABLE TO CHANGE THE SKIN WITH IT, IF ANYONE CAN FIGURE IT OUT
+WITH THE VEHICLE META OR KNOWS HOW TO FIX IT ON THE MODEL, PLEASE TELL ME
+
+- This car features about 11 Extras, all sirens being used and Two different setups for rims.
+
+- Extra list:
+Extra 1 - Rambar
+Extra 2 - Rambar Lights (Soundoff Ultralite, Whelen Ion Duo)
+Extra 3 - Whelen Liberty II
+Extra 4 - Interior lighting (Whelen Inner edge, Whelen Talon)
+Extra 5 - Toolbox with Whelen Ions
+Extra 7 - Bed Cap
+Extra 8 - Whelen M4s
+Extra 11 - ALPRS
+Extra 12 - Step Boards
+
+- There are Two versions of this truck, one with Rockstar Xds, one with the original SSV rims
+
+- As the extra list implies, there is A LOT of stuff on this truck. Going with this, the file size suffers
+quite a bit as it is around 7.3 mb for the _hi and 7 for the rest of the LODS. If you cant use this truck,
+I apologize.
+
+- I did go all out with this truck, it orginally started out as just a slicktop with a bedcap but I decided
+to go all out.
+
+- This truck is very much a multi-purpose truck. As so i've included multiple skins, SRU, CVE, Supervisor, Stealth, 
+Unmarked and basic patrol skins.
+
+- There are a few issues with the skins, but I don't much care about them as most of the time, people replace the skins 
+on  my vehicles.
+
+- You can have a very very varying setup on this truck, from being stealthy, to being completely balls to the wall.
+
+- This was a very very fun project to make, and I'm grateful for everyone helped out.
+
+- As with all my models, if you find any bugs with it, please let me know!
+
+Credits
+=================================
+ Base Model
+- Model Provided from unknown 3d Model Website by TrooperFightingNote
+- Poly Crunched and optimized by Thehurk
+- Textures by Thehurk	
+- Interior From DSF, Fitted by thehurk
+- Converted to V by Thehurk
+- Templated By TrooperFightingNote
+
+ Lighting
+- Whelen Liberty II by GTAxB0SS
+- Whelen M4s by GTAxB0SS
+- Whelen Ions by Deco
+- Soundoff Ultralite by Thehurk
+- Whelen Talon by Thehurk
+- Whelen Inner Edge by Hilth0
+
+ Misc Parts
+- Setina Rambar by Vertex3d
+- Tool box from Sketchup Warehouse
+- Bed Cap by GTAxB0SS
+- Stalker radar, Console, gun rack by GTAxB0SS
+- Toughbook by RidgeRunner
+- Watchguard by RoegonTV
+- Antennas by Thehurk
+- ALPR and Antenna by Molex
+
+- Skins by Thehurk
+
+If i've forgotten any credits, please let me know!
+Disclaimer
+=================================
+-You are not to attempt to modify or rip this model in any way shape or form.
+-I (Thehurk) am not resposible for any damages done to your game. Please make a backup of any edited files!
+-Do not attempt to make a profit off this model in any way shapr or form.
+-Do not re-upload this vehicle, please make a link
+-Do not upload this file to any other site, claiming it as your own. 
+-If you want to use this file in a clan, PLEASE ask me before doing so
+

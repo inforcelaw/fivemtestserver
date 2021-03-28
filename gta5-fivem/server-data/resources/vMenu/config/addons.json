@@ -1,0 +1,42 @@
+{
+  "vehicles": [
+    "pranger",
+"fbi",
+"fbi_hi",
+"fbi2",
+"police",
+"police_hi",
+"sheriff",
+"sheriff_hi",
+"sheriff2",
+"sheriff2_hi",
+"police5",
+"police6",
+"police7",
+"sheriff3",
+"police2",
+"hwaycar3",
+"hwaycar",
+"hwaycar6",
+"hwaycar10",
+"polf430",
+"pol718",
+"policeb",
+"polmav",
+"riot",
+"sheriff2_hi",
+"sheriff2"
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ],
+  "weapon_components": [
+    "weapon_component_name_1",
+    "weapon_component_name_2"
+  ]
+}
